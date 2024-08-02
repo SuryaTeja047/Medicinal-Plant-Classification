@@ -12,9 +12,7 @@ Download Dataset and add to the main folder and name the folder as data.
 
 
 ```bash
-pip install -r requirements.txt
 
-```bash
 pip install -r requirements.txt
 
 python data_split.py
