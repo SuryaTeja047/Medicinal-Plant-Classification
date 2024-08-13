@@ -64,7 +64,7 @@ app_mode = st.sidebar.selectbox("Select Page", ["Home", "About", "Plant Identifi
 # Home Page
 if app_mode == "Home":
     st.title("Welcome to Plant Sense")
-    st.image("images/   homepage.jpg", use_column_width=True)
+    st.image("images/homepage.jpg", use_column_width=True)
 
     st.markdown("""
     **Plant Sense** offers a powerful solution for identifying medicinal plants using advanced machine learning techniques.
